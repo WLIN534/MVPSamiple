@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MvpSamiple</string>
+
+    <string name="save">存</string>
+    <string name="load">读</string>
+    <string name="id">ID:</string>
+    <string name="name">name:</string>
+    <string name="age">age:</string>
+</resources>
